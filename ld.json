@@ -1,0 +1,118 @@
+                "name": "FIRMA ALGALIA SRL",
+                "url": "https://avtovokzaly-ua.com/"
+            },
+            "departureTime": "2026-02-21T09:55+02:00",
+            "arrivalTime": "2026-02-21T14:45+02:00",
+            "departureBusStop": {
+                "@type": "BusStop",
+                "name": "Одеса, Автовокзал &quot;Центральний&quot;",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "вулиця Колонтаївская; будинок 58",
+                    "addressLocality": "Одеса, Автовокзал &quot;Центральний&quot;"
+                }
+            },
+            "arrivalBusStop": {
+                "@type": "BusStop",
+                "name": "Кишинів, Автовокзал &quot;Північний&quot;",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "вулиця Мошилор; будинок 2/1",
+                    "addressLocality": "Кишинів, Автовокзал &quot;Північний&quot;"
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://avtovokzaly-ua.com/buses/Odessa/Chisinau/ua",
+                "price": "800.00",
+                "priceCurrency": "UAH",
+                "availability": "https://schema.org/InStock",
+                "validFrom": "2026-02-20",
+                "priceSpecification": {
+                    "@type": "PriceSpecification",
+                    "valueAddedTaxIncluded": "true"
+                }
+            }
+        },
+        {
+            "@type": "Event",
+            "name": "Поїздка Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Автовокзал &quot;Північний&quot;",
+            "description": "Прямий рейс Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Автовокзал &quot;Північний&quot;. Туристичний <div class="item-trip item-row"><div class=col-3><strong>Рейс: </strong>1744 Одеса - Кишинів</div><div><strong>Перевізник: </strong>FIRMA ALGALIA SRL</div></div><div class="item-comfort item-row"><strong>Комфорт:</strong><span class="icons __220v" title="Розетка 220В"></span><span class="icons __ac" title="Кондиционер"></span><span class="icons __wifi" title=WiFi></span></div><div class=item-row><div class="item-address item-row col-3"><div class="item-col col-2"><div class=item-title-text><strong>Відправлення:</strong></div><div class=item-address-text>Одеса, Автовокзал &quot;Центральний&quot;, вулиця Колонтаївская; будинок 58 </div><div class="item-date-info item-row"><div class=item-time><span class="icons __clock"></span><span>09:55</span></div><div class=item-date><span class="icons __calendar"></span><span>2026-02-21</span></div></div></div><div class="item-col col-2"><div class=item-title-text><strong>Прибуття:</strong></div><div class=item-address-text>Кишинів, Автовокзал &quot;Північний&quot;, вулиця Мошилор; будинок 2/1 </div><div class="item-date-info item-row"><div class=item-time><span class="icons __clock"></span><span>14:45</span></div><div class=item-date><span class="icons __calendar"></span><span>2026-02-21</span></div></div></div></div><div class="item-info item-row col-1"><div class="item-col col-2"><div class=item-waytime-text><div class=travel-time><strong>час <br>подорожі:</strong></div><span class=travel-time>&nbsp;4&nbsp;г&nbsp;50&nbsp;хвл</span></div><div class=item-places-text><strong>вільні місця:</strong><span> 20</span></div></div><div class="item-col col-2 price"><strong>Ціна: </strong>800.00 грн</div></div></div><div class="item-more item-row"><div class=col-3><div class=item-details><strong>Детальніше</strong></div></div><div><button class="btn btn-sm btn-primary buy_btn" data-k=91_K5bjTLjfGKm2joZbX6o_pktktG_sv.wZBQFOY7TsBL84WzqNClW5xMzwOHIeWpv3_dXQLINSTGVjyoXpo_INHD3pwOsTarETiKA0dI98xV1M30U79jYch0yyh9WRPS7GzFjA3zZJrejFNtiW2w6MvE3zYWo3zAJFSCuxNA2Ed4wulsTDXAkbK8DU5J.Ui><span>Купити квиток</span></button></div></div><div class="trip__details item-row" style="display: none;"><div class="item-info-race item-row"><div class="item-race col-2"><div class="item-row thead"><div class=rout-text><span class="icons icons-rout __station"></span></div><div class=rout-icon></div><div class=rout-info><div><strong>Маршрут та розклад автобуса:</strong></div><div><strong>Одеса - Кишинів</strong></div></div></div></div><div class="item-rules col-2"><div><div class=item-row><div class=info-icon><img alt="Автобус" src="/wp-content/plugins/dbus/assets/img/x320.png.pagespeed.ic.Ex3aC8OsSW.png"></div><div class=info-text><strong>Автобус:</strong></div></div><div class="item-row info-rule"><div class=info-icon></div><span>MAN VISION C13</span></div></div></div></div><div class="item-more item-row"><div><button class="btn btn-sm btn-primary buy_btn" data-k=91_K5bjTLjfGKm2joZbX6o_pktktG_sv.wZBQFOY7TsBL84WzqNClW5xMzwOHIeWpv3_dXQLINSTGVjyoXpo_INHD3pwOsTarETiKA0dI98xV1M30U79jYch0yyh9WRPS7GzFjA3zZJrejFNtiW2w6MvE3zYWo3zAJFSCuxNA2Ed4wulsTDXAkbK8DU5J.Ui><span>Купити квиток</span></button></div></div></div></div><div class=container-item><div><script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "BusTrip",
+            "name": "Автобус Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Аеропорт Кишинів (біля АЗС Lukoil)",
+            "description": "Прямий рейс Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Аеропорт Кишинів (біля АЗС Lukoil). Туристичний автобус, Wi-Fi, туалет.",
+            "provider": {
+                "@type": "Organization",
+                "name": "FIRMA ALGALIA SRL",
+                "url": "https://avtovokzaly-ua.com/"
+            },
+            "departureTime": "2026-02-21T09:55+02:00",
+            "arrivalTime": "2026-02-21T14:15+02:00",
+            "departureBusStop": {
+                "@type": "BusStop",
+                "name": "Одеса, Автовокзал &quot;Центральний&quot;",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "вулиця Колонтаївская; будинок 58",
+                    "addressLocality": "Одеса, Автовокзал &quot;Центральний&quot;"
+                }
+            },
+            "arrivalBusStop": {
+                "@type": "BusStop",
+                "name": "Кишинів, Аеропорт Кишинів (біля АЗС Lukoil)",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "бульвар Дачія",
+                    "addressLocality": "Кишинів, Аеропорт Кишинів (біля АЗС Lukoil)"
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://avtovokzaly-ua.com/buses/Odessa/Chisinau/ua",
+                "price": "800.00",
+                "priceCurrency": "UAH",
+                "availability": "https://schema.org/InStock",
+                "validFrom": "2026-02-20",
+                "priceSpecification": {
+                    "@type": "PriceSpecification",
+                    "valueAddedTaxIncluded": "true"
+                }
+            }
+        },
+        {
+            "@type": "Event",
+            "name": "Поїздка Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Аеропорт Кишинів (біля АЗС Lukoil)",
+            "description": "Прямий рейс Одеса, Автовокзал &quot;Центральний&quot; - Кишинів, Аеропорт Кишинів (біля АЗС Lukoil). Туристичний автобус, Wi-Fi, туалет.",
+            "startDate": "2026-02-21T09:55+02:00",
+            "endDate": "2026-02-21T14:15+02:00",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Одеса, Автовокзал &quot;Центральний&quot;",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "вулиця Колонтаївская; будинок 58",
+                    "addressLocality": "Одеса, Автовокзал &quot;Центральний&quot;"
+                }
+            },
+            "organizer": {
+                "@type": "Organization",
+                "name": "FIRMA ALGALIA SRL",
+                "url": "https://avtovokzaly-ua.com/"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://avtovokzaly-ua.com/buses/Odessa/Chisinau/ua",
+                "price": "800.00",
+                "priceCurrency": "UAH",
+                "availability": "https://schema.org/InStock",
+                "validFrom": "2026-02-20"
+            }
+        }
+    ]
+}    </script>
